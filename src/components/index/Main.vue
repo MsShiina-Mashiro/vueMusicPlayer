@@ -80,7 +80,7 @@ export default {
 		flex: 12
 		width: 100%
 		justify-content: center
-		padding: 20px 9% 0
+		padding: 20px 5% 0 5%
 		box-sizing: border-box
 		/* 元素内的内容会被修剪，但是浏览器会显示滚动条以便查看其余的内容 */
 		overflow: scroll
